@@ -1,7 +1,5 @@
 # Material de Apoio
 
-# Material de Apoio
-
 Assista as aulas gravadas, acessando os links abaixo:
 
 > :warning: **Importante:** Você só poderá acessar a aula caso você seja um aluno dessa turma. Se você é um aluno e está enfrentando problemas para acessar a aula, entre em contato com a administração.

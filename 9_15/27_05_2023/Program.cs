@@ -11,6 +11,5 @@ string mensagem = "Resultado da soma é " + resultado;
 // Impressão do resultado: A mensagem completa é exibida no console para mostrar o valor da soma.
 Console.WriteLine(mensagem); // O valor da soma será exibido no console.
 
-
 //Resumidamente, o código recebe dois números, soma esses números e mostra o resultado no console. 
 //Utiliza-se a concatenação para juntar a mensagem fixa com o valor da soma e criar a mensagem completa.

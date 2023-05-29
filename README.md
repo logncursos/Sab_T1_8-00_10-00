@@ -2,7 +2,7 @@
 
 Assista as aulas gravadas acessando os links abaixo:
 
-> :warning: **Importante:** Apenas os alunos matriculados em aulas presenciais têm acesso às aulas gravadas. Certifique-se de selecionar a turma correta para evitar qualquer problema de acesso. Se ainda assim estiver tendo dificuldades, entre em contato com a administração para obter ajuda.
+> :warning: **Importante:** Apenas os alunos matriculados em aulas presenciais têm acesso às aulas gravadas. Certifique-se de selecionar a turma correta para evitar qualquer problema de acesso. Se ainda assim estiver tendo dificuldades, entre em contato com a administração.
 
 | Turma | Horário          | Link de Reposição                                     |
 |-------|------------------|-------------------------------------------------------|

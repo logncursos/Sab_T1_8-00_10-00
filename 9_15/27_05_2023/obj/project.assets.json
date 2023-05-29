@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\Sabado.csproj",
-      "projectName": "Sabado",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\Sabado.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\27_05_2023.csproj",
+      "projectName": "27_05_2023",
+      "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\27_05_2023.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,7 +1,5 @@
 # Material de Apoio
 
-
-
 ## Aulas gravadas
 Assista as aulas gravadas acessando os links abaixo:
 
@@ -26,9 +24,12 @@ Aqui estão alguns comandos úteis para serem usados no terminal e no ambiente .
 :broom: `cls`: Limpa o terminal\
 :file_folder: `mkdir`: Cria um novo diretório\
 :wastebasket: `del ou rd /s /q`: Exclui um arquivo ou diretório
+
+---
+
 ### .NET
-> :warning: **Importante:** Certifique-se de ter o .NET instalado em seu sistema antes de executar os comandos relacionados ao .NET.
+> :warning: **Importante:** Certifique-se de ter o .NET instalado em seu sistema antes de executar os comandos abaixo.
 > https://dotnet.microsoft.com/pt-br/download
 
-:computer: `dotnet new console`: Cria um novo projeto de aplicativo de console usando o .NET CLI
+:computer: `dotnet new console`: Cria um novo projeto de aplicativo de console usando o .NET CLI\
 :arrow_forward: `dotnet run`: Executa o projeto .NET no terminal

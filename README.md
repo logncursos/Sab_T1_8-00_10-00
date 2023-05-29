@@ -1,8 +1,8 @@
 # Material de Apoio
 
-Assista as aulas gravadas, acessando os links abaixo:
+Assista as aulas gravadas acessando os links abaixo:
 
-> :warning: **Importante:** Você só poderá acessar a aula caso você seja um aluno dessa turma. Se você é um aluno e está enfrentando problemas para acessar a aula, entre em contato com a administração.
+> :warning: **Importante:** Apenas os alunos matriculados em aulas presenciais têm acesso às aulas gravadas. Certifique-se de selecionar a turma correta para evitar qualquer problema de acesso. Se ainda assim estiver tendo dificuldades, entre em contato com a administração para obter ajuda adicional.
 
 | Turma | Horário          | Link de Reposição                                     |
 |-------|------------------|-------------------------------------------------------|

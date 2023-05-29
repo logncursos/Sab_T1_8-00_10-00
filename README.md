@@ -1,6 +1,6 @@
 # Turmas de Sábado
 
-Este repositório contém informações sobre as turmas de sábado.
+Este repositório contém conteudos complementares.
 
 | Turma | Horário          | Link de Reposição                                     |
 |-------|------------------|-------------------------------------------------------|

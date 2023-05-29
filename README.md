@@ -23,7 +23,7 @@ Aqui estão alguns comandos úteis para serem usados no terminal e no ambiente .
 - :file_folder: `dir`: Lista os arquivos e diretórios no diretório atual
 - :open_file_folder: `cd`: Navega para um diretório específico
 - :arrow_up_small: `cd..`: Navega para o diretório pai
-- :broom: `clear`: Limpa o terminal
+- :broom: `clear/cls`: Limpa o terminal
 - :file_folder: `mkdir`: Cria um novo diretório
 - :wastebasket: `del`: Exclui um arquivo ou diretório
 

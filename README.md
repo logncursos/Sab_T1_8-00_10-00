@@ -1,6 +1,6 @@
 # Material de apoio
 
-Nos links abaixo você poderá acessar as aulas gravadas.
+Assista as aulas gravadas, acessando os links abaixo:
 
 | Turma | Horário          | Link de Reposição                                     |
 |-------|------------------|-------------------------------------------------------|

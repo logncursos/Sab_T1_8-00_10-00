@@ -17,14 +17,14 @@ Aqui estão alguns comandos úteis para serem usados no terminal e no ambiente .
 
 ### Terminal
 
-- `dir`: Lista os arquivos e diretórios no diretório atual
-- `cd`: Navega para um diretório específico
-- `cd..`: Navega para o diretório pai
-- `clear`: Limpa o terminal
-- `mkdir`: Cria um novo diretório
-- `del`: Exclui um arquivo ou diretório
+- :file_folder: `dir`: Lista os arquivos e diretórios no diretório atual
+- :open_file_folder: `cd`: Navega para um diretório específico
+- :arrow_up_small: `cd..`: Navega para o diretório pai
+- :broom: `clear`: Limpa o terminal
+- :file_folder: `mkdir`: Cria um novo diretório
+- :wastebasket: `del`: Exclui um arquivo ou diretório
 
 ### .NET
 
-- `dotnet new console`: Cria um novo projeto de aplicativo de console usando o .NET CLI
-- `dotnet run`: Executa o projeto .NET no terminal
+- :computer: `dotnet new console`: Cria um novo projeto de aplicativo de console usando o .NET CLI
+- :arrow_forward: `dotnet run`: Executa o projeto .NET no terminal

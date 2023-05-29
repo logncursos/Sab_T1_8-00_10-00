@@ -26,4 +26,3 @@ Aqui estão alguns comandos úteis para serem usados no terminal e no ambiente .
 
 - `dotnet new console`: Cria um novo projeto de aplicativo de console usando o .NET CLI
 - `dotnet run`: Executa o projeto .NET no terminal
-

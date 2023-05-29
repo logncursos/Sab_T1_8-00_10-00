@@ -14,8 +14,6 @@ Assista as aulas gravadas acessando os links abaixo:
 
 ## Comandos Úteis
 
-Aqui estão alguns comandos úteis para serem usados no terminal e no ambiente .NET:
-
 ### Terminal
 
 :file_folder: `dir`: Lista os arquivos e diretórios no diretório atual\

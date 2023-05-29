@@ -8,10 +8,10 @@ Assista as aulas gravadas acessando os links abaixo:
 
 | Turma | Horário          | Link de Reposição                                     |
 |-------|------------------|-------------------------------------------------------|
-| 1     | 9:15 - 11:15     | [Acessar última aula gravada](https://1drv.ms/f/s!AABDE_eMAQ0LgoEA?e=UBJCRY) |
-| 2     | 11:15 - 13:15    | [Acessar última aula gravada]() |
-| 3     | 13:15 - 15:15    | [Acessar última aula gravada]() |
-| 4     | 15:15 - 17:15    | [Acessar última aula gravada]() |
+| 1     | 9:00 - 11:00     | [Acessar última aula gravada](https://1drv.ms/f/s!AABDE_eMAQ0LgoEA?e=UBJCRY) |
+| 2     | 11:10 - 13:10    | [Acessar última aula gravada]() |
+| 3     | 14:20 - 16:20    | [Acessar última aula gravada]() |
+| 4     | 17:30 - 19:30    | [Acessar última aula gravada]() |
 
 ## Comandos úteis
 ### Terminal

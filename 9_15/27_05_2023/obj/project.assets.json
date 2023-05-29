@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Sabado.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\Sabado.csproj",
       "projectName": "Sabado",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Sabado.csproj",
+      "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\Sabado.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\obj\\",
+      "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

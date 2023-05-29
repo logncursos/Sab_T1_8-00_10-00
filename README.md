@@ -33,4 +33,4 @@ Assista as aulas gravadas acessando os links abaixo:
 ---
 
 ## Livros Recomendados
-**"Aprenda a programar com C#"** de Antônio Trigo e Jorge Henriques. [amazon.com](https://encurtador.com.br/cLU67)
+**"Lógica Para Desenvolvimento de Programação de Computadores Edição: 29"** de José Augusto N. G. Manzano e Jayr Figueiredo de Oliveira. [amazon.com](http://tiny.cc/2vh7vz)

@@ -29,3 +29,8 @@ Assista as aulas gravadas acessando os links abaixo:
 
 :computer: `dotnet new console`: Cria um novo projeto de aplicativo de console usando o .NET CLI\
 :arrow_forward: `dotnet run`: Executa o projeto .NET no terminal
+
+---
+
+## Livros Recomendados
+**"Aprenda a programar com C#"** de Antônio Trigo e Jorge Henriques. [amazon.com](https://encurtador.com.br/cLU67)

@@ -1,6 +1,6 @@
 # Material de apoio
 
-Este repositório contém informações sobre as turmas de sábado.
+Nos links abaixo você poderá acessar as aulas gravadas.
 
 | Turma | Horário          | Link de Reposição                                     |
 |-------|------------------|-------------------------------------------------------|

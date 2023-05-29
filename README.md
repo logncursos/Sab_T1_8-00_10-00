@@ -16,7 +16,7 @@ Aqui estão alguns comandos úteis para serem usados no terminal e no ambiente .
 ## Terminal
 
 - `dir`: Lista os arquivos e diretórios no diretório atual
-- `cd`: Navega para um diretório específico
+- `cd  `: Navega para um diretório específico
 - `cd..`: Navega para o diretório pai
 - `clear`: Limpa o terminal
 - `mkdir`: Cria um novo diretório

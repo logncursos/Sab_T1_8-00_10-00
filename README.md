@@ -25,7 +25,7 @@ Aqui estão alguns comandos úteis para serem usados no terminal e no ambiente .
 - :arrow_up_small: `cd..`: Navega para o diretório pai
 - :broom: `cls`: Limpa o terminal
 - :file_folder: `mkdir`: Cria um novo diretório
-- :wastebasket: `del`: Exclui um arquivo ou diretório
+- :wastebasket: `del ou rd /s /q`: Exclui um arquivo ou diretório
 
 ### .NET
 

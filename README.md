@@ -12,7 +12,7 @@ Assista as aulas gravadas acessando os links abaixo:
 | 3     | 13:15 - 15:15    | [Acessar última aula gravada](https://1drv.ms/f/s!AABDE_eMAQ0LgoEA?e=UBJCRY) |
 | 4     | 15:15 - 17:15    | [Acessar última aula gravada](https://1drv.ms/f/s!AABDE_eMAQ0LgoEA?e=UBJCRY) |
 
-## Comandos Úteis
+## Comandos úteis
 ### Terminal
 :file_folder: `dir`: Lista os arquivos e diretórios no diretório atual\
 :open_file_folder: `cd`: Navega para um diretório específico\

@@ -32,5 +32,5 @@ Assista as aulas gravadas acessando os links abaixo:
 
 ---
 
-## Livros Recomendados
+## Livro usado em aula
 **"Lógica Para Desenvolvimento de Programação de Computadores Edição: 29"** de José Augusto N. G. Manzano e Jayr Figueiredo de Oliveira. [amazon.com](http://tiny.cc/2vh7vz)

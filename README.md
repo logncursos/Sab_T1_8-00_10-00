@@ -4,7 +4,8 @@
 Assista as aulas gravadas acessando os links abaixo:
 
 > :warning: **Importante:** Somente alunos matriculados em aulas presenciais têm acesso às aulas gravadas.\
-> Certifique-se de selecionar a turma correta para evitar qualquer problema de acesso. Se ainda assim estiver tendo dificuldades, entre em contato com a administração.
+> Certifique-se de selecionar a turma correta para evitar qualquer problema de acesso. Se ainda assim estiver tendo dificuldades, entre em contato com a administração.\
+> Toda aula será deletada após uma semana.
 
 | Turma | Horário          | Link da aula                                          |
 |-------|------------------|-------------------------------------------------------|

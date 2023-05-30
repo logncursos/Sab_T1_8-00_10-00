@@ -1,19 +1,5 @@
 # Material de Apoio
 
-## Aulas gravadas
-Assista as aulas gravadas acessando os links abaixo:
-
-> - :warning: **Importante:** Somente alunos matriculados em aulas presenciais têm acesso às aulas gravadas.
-> - Certifique-se de selecionar a turma correta para evitar qualquer problema de acesso. Se ainda assim estiver tendo dificuldades, entre em contato com a administração.
-> - As aulas ficarão disponíveis durante 7 dias e depois serão apagadas.
-
-| Turma | Horário          | Link da aula                                          |
-|-------|------------------|-------------------------------------------------------|
-| 1     | 9:00 - 11:00     | [Acessar última aula gravada](https://1drv.ms/f/s!AABDE_eMAQ0LgoEA?e=UBJCRY) |
-| 2     | 11:10 - 13:10    | [Acessar última aula gravada]() |
-| 3     | 14:20 - 16:20    | [Acessar última aula gravada]() |
-| 4     | 16:30 - 18:30    | [Acessar última aula gravada]() |
-
 ## Comandos úteis
 ### Terminal
 :file_folder: `dir`: Lista os arquivos e diretórios no diretório atual\

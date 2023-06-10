@@ -1,0 +1,15 @@
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\bin\Debug\net7.0\Aula 4 - 10_06_2023.exe
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\bin\Debug\net7.0\Aula 4 - 10_06_2023.deps.json
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\bin\Debug\net7.0\Aula 4 - 10_06_2023.runtimeconfig.json
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\bin\Debug\net7.0\Aula 4 - 10_06_2023.dll
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\bin\Debug\net7.0\Aula 4 - 10_06_2023.pdb
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.dll
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\refint\Aula 4 - 10_06_2023.dll
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.pdb
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\Aula 4 - 10_06_2023.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Desktop\GitHub\Sabado9_00\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 4 - 10_06_2023\obj\Debug\net7.0\ref\Aula 4 - 10_06_2023.dll

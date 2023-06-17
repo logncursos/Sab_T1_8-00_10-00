@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\bin\Debug\net7.0\Aula 5 - 17_06_2023.exe
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\bin\Debug\net7.0\Aula 5 - 17_06_2023.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\bin\Debug\net7.0\Aula 5 - 17_06_2023.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\bin\Debug\net7.0\Aula 5 - 17_06_2023.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\bin\Debug\net7.0\Aula 5 - 17_06_2023.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\refint\Aula 5 - 17_06_2023.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\Aula 5 - 17_06_2023.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 2 - Escrevendo os primeiros códigos\Aula 5 - 17_06_2023\obj\Debug\net7.0\ref\Aula 5 - 17_06_2023.dll

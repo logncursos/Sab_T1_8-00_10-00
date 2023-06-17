@@ -1,5 +1,5 @@
-﻿int tabuadaDo = 5;
+﻿﻿int tabuadaDo = 5;
 
 for(int i = 0; i <= 10; i++){
-    Console.WriteLine(i * tabuadaDo);
+    Console.WriteLine(tabuadaDo + " x " + i + " = " + i * tabuadaDo);
 }

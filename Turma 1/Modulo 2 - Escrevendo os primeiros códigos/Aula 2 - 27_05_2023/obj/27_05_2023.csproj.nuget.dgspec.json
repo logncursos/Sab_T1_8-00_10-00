@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\27_05_2023.csproj": {}
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 2 - 27_05_2023\\27_05_2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\27_05_2023.csproj": {
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 2 - 27_05_2023\\27_05_2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\27_05_2023.csproj",
+        "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 2 - 27_05_2023\\27_05_2023.csproj",
         "projectName": "27_05_2023",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\27_05_2023.csproj",
+        "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 2 - 27_05_2023\\27_05_2023.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\9_15\\27_05_2023\\obj\\",
+        "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 2 - 27_05_2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj": {}
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj": {
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj",
+        "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj",
         "projectName": "Aula 3 - 02_06_2023",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj",
+        "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\Aula 3 - 02_06_2023.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\obj\\",
+        "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 3 - 02_06_2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

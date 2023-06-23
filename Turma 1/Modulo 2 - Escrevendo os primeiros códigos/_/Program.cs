@@ -30,7 +30,7 @@
 // }
 
 
-//o número de combinações possíveis seria 62^n.
+//o número de combinações possíveis seria 62^n.f
 
 //Por exemplo, se a senha tiver 4 caracteres, o número de combinações possíveis seria 62^4 = 14.776.336.
 
@@ -60,7 +60,7 @@ public class BruteForcePasswordCracker
             if (senhaEncontrada)
                 break;
 
-            GerarSenhas(tamanho, caracteres, "", ref senhaEncontrada, ref senhaQuebrada, senha, ref tentativas);
+            GerarSenhas(tamanho, caracteres, numeroMaximoTentativas, "", ref senhaEncontrada, ref senhaQuebrada, senha, ref tentativas);
         }
 
         if (senhaEncontrada)
@@ -72,7 +72,7 @@ public class BruteForcePasswordCracker
     }
 
     // Função recursiva para gerar todas as combinações de senha possíveis
-    public static void GerarSenhas(int tamanho, string caracteres, string tentativaAtual, ref bool senhaEncontrada, ref string senhaQuebrada, string senhaAlvo, ref double tentativas)
+    public static void GerarSenhas(int tamanho, string caracteres, double numeroMaximoTentativas, string tentativaAtual, ref bool senhaEncontrada, ref string senhaQuebrada, string senhaAlvo, ref double tentativas)
     {
         if (senhaEncontrada)
             return;
@@ -91,8 +91,8 @@ public class BruteForcePasswordCracker
             {
                 string novaTentativa = tentativaAtual + caracteres[i];
                 tentativas++;
-                Console.WriteLine(novaTentativa + " - " + tentativas.ToString("N2", new System.Globalization.CultureInfo("en-US")));
-                GerarSenhas(tamanho - 1, caracteres, novaTentativa, ref senhaEncontrada, ref senhaQuebrada, senhaAlvo, ref tentativas);
+                Console.WriteLine(novaTentativa + " - " + tentativas.ToString("N2", new System.Globalization.CultureInfo("en-US")) + " / " + numeroMaximoTentativas.ToString("N2", new System.Globalization.CultureInfo("en-US")));
+                GerarSenhas(tamanho - 1, caracteres, numeroMaximoTentativas, novaTentativa, ref senhaEncontrada, ref senhaQuebrada, senhaAlvo, ref tentativas);
             }
         }
     }

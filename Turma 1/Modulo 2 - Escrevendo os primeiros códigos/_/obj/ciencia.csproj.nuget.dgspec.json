@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\ciencia\\ciencia.csproj": {}
+    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\_\\ciencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\ciencia\\ciencia.csproj": {
+    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\_\\ciencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\ciencia\\ciencia.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\_\\ciencia.csproj",
         "projectName": "ciencia",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\ciencia\\ciencia.csproj",
+        "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\_\\ciencia.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\ciencia\\obj\\",
+        "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\_\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

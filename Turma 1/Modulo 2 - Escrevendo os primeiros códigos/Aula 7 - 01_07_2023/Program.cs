@@ -28,24 +28,24 @@
         decimal peso = 68.5m; // Valor decimal com alta precisão
 
         // Imprime os valores das variáveis
-        Console.WriteLine("Idade: " + idade);
-        Console.WriteLine("Salário: " + salario);
-        Console.WriteLine("Saldo Bancário: " + saldoBancario);
-        Console.WriteLine("Altura: " + altura);
-        Console.WriteLine("Letra: " + letra);
-        Console.WriteLine("Nome: " + nome);
-        Console.WriteLine("Está ativo? " + isAtivo);
-        Console.WriteLine("Está aprovado? " + isAprovado);
-        Console.WriteLine("Data atual: " + dataAtual);
-        Console.WriteLine("Duração: " + duracao);
-        Console.WriteLine("Nível: " + nivel);
-        Console.WriteLine("Temperatura: " + temperatura);
-        Console.WriteLine("Código: " + codigo);
-        Console.WriteLine("Total de Produtos: " + totalProdutos);
-        Console.WriteLine("População: " + populacao);
-        Console.WriteLine("Total de Votos: " + totalVotos);
-        Console.WriteLine("Categoria: " + categoria);
-        Console.WriteLine("Endereço: " + endereco);
-        Console.WriteLine("Peso: " + peso);
+        Console.WriteLine("Idade: " + idade + " " + idade.GetType());
+        Console.WriteLine("Salário: " + salario + " " + salario.GetType());
+        Console.WriteLine("Saldo Bancário: " + saldoBancario + " " + saldoBancario.GetType());
+        Console.WriteLine("Altura: " + altura + " " + altura.GetType());
+        Console.WriteLine("Letra: " + letra + " " + letra.GetType());
+        Console.WriteLine("Nome: " + nome + " " + nome.GetType());
+        Console.WriteLine("Está ativo? " + isAtivo + " " + isAtivo.GetType());
+        Console.WriteLine("Está aprovado? " + isAprovado + " " + isAprovado.GetType());
+        Console.WriteLine("Data atual: " + dataAtual + " " + dataAtual.GetType());
+        Console.WriteLine("Duração: " + duracao + " " + duracao.GetType());
+        Console.WriteLine("Nível: " + nivel + " " + nivel.GetType());
+        Console.WriteLine("Temperatura: " + temperatura + " " + temperatura.GetType());
+        Console.WriteLine("Código: " + codigo + " " + codigo.GetType());
+        Console.WriteLine("Total de Produtos: " + totalProdutos + " " + totalProdutos.GetType());
+        Console.WriteLine("População: " + populacao + " " + populacao.GetType());
+        Console.WriteLine("Total de Votos: " + totalVotos + " " + totalVotos.GetType());
+        Console.WriteLine("Categoria: " + categoria + " " + categoria.GetType());
+        Console.WriteLine("Endereço: " + endereco + " " + endereco.GetType());
+        Console.WriteLine("Peso: " + peso + " " + peso.GetType());
 
         Console.ReadLine();

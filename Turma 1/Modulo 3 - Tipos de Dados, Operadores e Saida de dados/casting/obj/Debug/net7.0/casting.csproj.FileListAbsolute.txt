@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\bin\Debug\net7.0\casting.exe
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\bin\Debug\net7.0\casting.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\bin\Debug\net7.0\casting.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\bin\Debug\net7.0\casting.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\bin\Debug\net7.0\casting.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\refint\casting.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\casting.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\casting\obj\Debug\net7.0\ref\casting.dll

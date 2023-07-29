@@ -1,0 +1,17 @@
+O desafio é o seguinte, é um jogo de adivinhação.
+O jogador precisa adivinhar um número entre 1 e 10. Vamos utilizar enumeradores para definir os valores mínimos, máximos, número certo e quantidade máxima de tentativas.
+
+
+1 - Se o jogador acertar o numero, deve aparecer uma mensagem: Você acertou
+
+2 - Se o jogador errar o numero, deve simplesmente solicitar que o jogador digite um novo número, e descontar uma tentativa
+
+3 - Se exceder o limite de tentativas, deve aparecer a mensagem: Você perdeu.
+
+4 - Se o jogador digitar um número abaixo do minimo ou acima do máximo, deve aparecer uma mensagem: Voce digitou um numero maior que X ou menor que Y, e a tentativa não deve ser contabilizada, ou seja, ele não acertou e nem errou.
+
+5 - Importante mostrar a quantidade de tentativas a cada nova tentativa.
+
+6 - Se o jogador digitar um numero maior que o numero correto, deve aparecer para ele tentar um numero mais baixo.
+
+7 - Se o jogador digitar um numero menor que o numero correto, deve aparecer para ele tentar um numero mais alto

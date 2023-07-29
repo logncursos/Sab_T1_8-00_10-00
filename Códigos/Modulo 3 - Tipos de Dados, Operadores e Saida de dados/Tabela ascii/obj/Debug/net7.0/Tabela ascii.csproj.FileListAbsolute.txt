@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\bin\Debug\net7.0\Tabela ascii.exe
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\bin\Debug\net7.0\Tabela ascii.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\bin\Debug\net7.0\Tabela ascii.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\bin\Debug\net7.0\Tabela ascii.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\bin\Debug\net7.0\Tabela ascii.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\refint\Tabela ascii.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\Tabela ascii.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Turma 1\Modulo 3 - Tipos de Dados, Operadores e Saida de dados\Tabela ascii\obj\Debug\net7.0\ref\Tabela ascii.dll

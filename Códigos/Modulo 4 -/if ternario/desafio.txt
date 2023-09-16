@@ -1,0 +1,24 @@
+Desafio de Programação: Analisador de Números
+
+Objetivo: Escreva um programa que receba vários números inteiros e realize as seguintes operações:
+
+Calcule e exiba a média dos números.
+Identifique e exiba o maior e o menor número.
+Conte e exiba quantos números são positivos e quantos são negativos.
+Instruções:
+
+Solicite ao usuário que insira vários números inteiros. Você pode assumir que os números são separados por espaços ou vírgulas.
+Converta a entrada do usuário em uma lista ou array de números.
+Percorra a lista para calcular a média, identificar o maior e o menor número e contar os números positivos e negativos.
+Exiba os resultados.
+
+Exemplo de Entrada:
+-5 3 8 10 12 -2 7
+
+Exemplo de Saída:
+Média: 4.71
+Maior número: 12
+Menor número: -5
+Números positivos: 5
+Números negativos: 2
+

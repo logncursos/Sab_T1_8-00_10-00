@@ -1,0 +1,15 @@
+C:\Users\bruno\OneDrive\Desktop\ciencia\bin\Debug\net7.0\ciencia.exe
+C:\Users\bruno\OneDrive\Desktop\ciencia\bin\Debug\net7.0\ciencia.deps.json
+C:\Users\bruno\OneDrive\Desktop\ciencia\bin\Debug\net7.0\ciencia.runtimeconfig.json
+C:\Users\bruno\OneDrive\Desktop\ciencia\bin\Debug\net7.0\ciencia.dll
+C:\Users\bruno\OneDrive\Desktop\ciencia\bin\Debug\net7.0\ciencia.pdb
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.dll
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\refint\ciencia.dll
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.pdb
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ciencia.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Desktop\ciencia\obj\Debug\net7.0\ref\ciencia.dll

@@ -1,0 +1,14 @@
+/Users/bruno/Desktop/teste/bin/Debug/net7.0/teste
+/Users/bruno/Desktop/teste/bin/Debug/net7.0/teste.deps.json
+/Users/bruno/Desktop/teste/bin/Debug/net7.0/teste.runtimeconfig.json
+/Users/bruno/Desktop/teste/bin/Debug/net7.0/teste.dll
+/Users/bruno/Desktop/teste/bin/Debug/net7.0/teste.pdb
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/teste.AssemblyInfoInputs.cache
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/teste.AssemblyInfo.cs
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/teste.csproj.CoreCompileInputs.cache
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/teste.dll
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/refint/teste.dll
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/teste.pdb
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/teste.genruntimeconfig.cache
+/Users/bruno/Desktop/teste/obj/Debug/net7.0/ref/teste.dll

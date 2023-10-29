@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\bin\Debug\net7.0\28_10.exe
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\bin\Debug\net7.0\28_10.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\bin\Debug\net7.0\28_10.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\bin\Debug\net7.0\28_10.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\bin\Debug\net7.0\28_10.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\refint\28_10.dll
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.pdb
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\28_10.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\Sabado\Códigos\Modulo 5 - Vetorez e matrizes\28_10\obj\Debug\net7.0\ref\28_10.dll

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/28_10/28_10.csproj": {}
+    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Códigos\\Modulo 5 - Vetorez e matrizes\\28_10\\28_10.csproj": {}
   },
   "projects": {
-    "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/28_10/28_10.csproj": {
+    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Códigos\\Modulo 5 - Vetorez e matrizes\\28_10\\28_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/28_10/28_10.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Códigos\\Modulo 5 - Vetorez e matrizes\\28_10\\28_10.csproj",
         "projectName": "28_10",
-        "projectPath": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/28_10/28_10.csproj",
-        "packagesPath": "/Users/bruno/.nuget/packages/",
-        "outputPath": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/28_10/obj/",
+        "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Códigos\\Modulo 5 - Vetorez e matrizes\\28_10\\28_10.csproj",
+        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Códigos\\Modulo 5 - Vetorez e matrizes\\28_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bruno/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

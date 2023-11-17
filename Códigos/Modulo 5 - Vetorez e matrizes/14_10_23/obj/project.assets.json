@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bruno/Desktop/teste/teste.csproj",
+      "projectUniqueName": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/14_10/teste.csproj",
       "projectName": "teste",
-      "projectPath": "/Users/bruno/Desktop/teste/teste.csproj",
+      "projectPath": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/14_10/teste.csproj",
       "packagesPath": "/Users/bruno/.nuget/packages/",
-      "outputPath": "/Users/bruno/Desktop/teste/obj/",
+      "outputPath": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 5 - Vetorez e matrizes/14_10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bruno/.nuget/NuGet/NuGet.Config"

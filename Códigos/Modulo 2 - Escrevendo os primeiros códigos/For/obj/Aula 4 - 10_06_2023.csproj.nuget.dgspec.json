@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 4 - 10_06_2023\\Aula 4 - 10_06_2023.csproj": {}
+    "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 2 - Escrevendo os primeiros códigos/For/Aula 4 - 10_06_2023.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 4 - 10_06_2023\\Aula 4 - 10_06_2023.csproj": {
+    "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 2 - Escrevendo os primeiros códigos/For/Aula 4 - 10_06_2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 4 - 10_06_2023\\Aula 4 - 10_06_2023.csproj",
+        "projectUniqueName": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 2 - Escrevendo os primeiros códigos/For/Aula 4 - 10_06_2023.csproj",
         "projectName": "Aula 4 - 10_06_2023",
-        "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 4 - 10_06_2023\\Aula 4 - 10_06_2023.csproj",
-        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 4 - 10_06_2023\\obj\\",
+        "projectPath": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 2 - Escrevendo os primeiros códigos/For/Aula 4 - 10_06_2023.csproj",
+        "packagesPath": "/Users/bruno/.nuget/packages/",
+        "outputPath": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 2 - Escrevendo os primeiros códigos/For/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/bruno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

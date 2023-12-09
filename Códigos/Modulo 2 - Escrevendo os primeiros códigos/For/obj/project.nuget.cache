@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GOtvJ13yc5JsDRzM2m7ClFzd71RAguOTXRaaM5A2lNxMg01xPFO9w11Z83qHLwKJwWYQNTS8fp+vDTPzbvn+RQ==",
+  "dgSpecHash": "YicpFWPr+Eom2A96UYMgup7K15GUS/iC3t1GQTlZcVCEigJGGPIlEnm1S3LSEiwuOqxpAX/wtS/ioD1zzKAFMQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\Sabado\\Turma 1\\Modulo 2 - Escrevendo os primeiros códigos\\Aula 4 - 10_06_2023\\Aula 4 - 10_06_2023.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/bruno/Documents/GitHub/Sab_T1_8-00_10-00/Códigos/Modulo 2 - Escrevendo os primeiros códigos/For/Aula 4 - 10_06_2023.csproj",
+  "expectedPackageFiles": [
+    "/Users/bruno/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/bruno/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/bruno/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
